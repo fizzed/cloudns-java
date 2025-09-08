@@ -4,11 +4,12 @@
     <artifactId>cloudns</artifactId>
     <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
+    <name>cloudns</name>
   
     <parent>
         <groupId>com.fizzed</groupId>
         <artifactId>maven-parent</artifactId>
-        <version>3.0.0</version>
+        <version>3.0.3</version>
     </parent>
     
     <scm>
