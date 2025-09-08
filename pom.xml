@@ -3,7 +3,7 @@
 
     <artifactId>cloudns</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>cloudns</name>
   
     <parent>
@@ -15,7 +15,7 @@
     <scm>
         <url>https://github.com/fizzed/cloudns-java</url>
         <connection>scm:git:git@github.com:fizzed/cloudns-java.git</connection>
-        <tag>HEAD</tag>
+        <tag>v0.0.1</tag>
     </scm>
     
     <properties>
